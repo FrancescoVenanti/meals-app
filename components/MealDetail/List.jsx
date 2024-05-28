@@ -18,10 +18,11 @@ const styles = StyleSheet.create({
 		paddingVertical: 5,
 		marginVertical: 5,
 		marginHorizontal: 10,
-		backgroundColor: "#e2b497",
+		backgroundColor: "orange",
 	},
 	itemText: {
 		color: "#351401",
 		textAlign: "center",
+		fontSize: 16,
 	},
 });
